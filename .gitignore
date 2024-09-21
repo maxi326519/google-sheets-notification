@@ -1,0 +1,8 @@
+# Dependencies
+/node_modules
+
+# Variasbles
+.env
+
+# Google config
+procesos-judiciales-83343-64bcbdc914ac.json
